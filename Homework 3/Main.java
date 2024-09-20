@@ -5,7 +5,7 @@ public class Main {
 
         //P1: This one only prints 0-9, can you fix it so it prints 1-10?
         System.out.println("Problem 1");
-        for (int i = 0; i < 10; i++){
+        for (int i = 0; i < 11; i++){
             System.out.println(i);
         }
 
